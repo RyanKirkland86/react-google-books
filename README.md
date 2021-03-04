@@ -6,7 +6,7 @@ This is as an app that searches Google Books, returns the results, and then save
 
 [DeployedLink](https://boiling-wildwood-40935.herokuapp.com/)
 
-![Image]()
+![Image](https://github.com/RyanKirkland86/react-google-books/blob/main/client/public/img/GoogleBooksDEMO.gif)
 
 ## Technologies Used:
 
